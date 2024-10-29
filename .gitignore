@@ -25,4 +25,4 @@ build/
 
 # Environment variables
 .env
-/DaVinci
+DaVinci/
